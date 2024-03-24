@@ -1,0 +1,19 @@
+table {
+  max-width: 400px;
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.list {
+  display: flex;
+  gap: 16px
+}
+
+.buttons {
+  display: flex;
+  gap: 8px;
+}
